@@ -1,0 +1,140 @@
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\appsettings.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.exe
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.deps.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.runtimeconfig.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.runtimeconfig.dev.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Humanizer.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.AssemblyInfoInputs.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.AssemblyInfo.cs
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.csproj.CoreCompileInputs.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.MvcApplicationPartsAssemblyInfo.cs
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.MvcApplicationPartsAssemblyInfo.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\staticwebassets\CustomsDeclaration.StaticWebAssets.Manifest.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\staticwebassets\CustomsDeclaration.StaticWebAssets.xml
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\scopedcss\bundle\CustomsDeclaration.styles.css
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.RazorTargetAssemblyInfo.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.csproj.CopyComplete
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.genruntimeconfig.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\New folder\New folder\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.csprojAssemblyReference.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\appsettings.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.exe
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.deps.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.runtimeconfig.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.runtimeconfig.dev.json
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\CustomsDeclaration.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Humanizer.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.csprojAssemblyReference.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.AssemblyInfoInputs.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.AssemblyInfo.cs
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.csproj.CoreCompileInputs.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.MvcApplicationPartsAssemblyInfo.cs
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.MvcApplicationPartsAssemblyInfo.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\staticwebassets\CustomsDeclaration.StaticWebAssets.Manifest.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\staticwebassets\CustomsDeclaration.StaticWebAssets.xml
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\scopedcss\bundle\CustomsDeclaration.styles.css
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.RazorTargetAssemblyInfo.cache
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.csproj.CopyComplete
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.dll
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.pdb
+\\L-imec-ops-121\c$\Users\oketshubetswe\source\repos\CustomsDeclaration\MyAPI2\obj\Debug\netcoreapp3.1\CustomsDeclaration.genruntimeconfig.cache
